@@ -10,6 +10,7 @@ Integrantes:
 <td> Vitor Roberto Kogawa de Moraes - RA 245582 </td>
 <td> Roque Matheus Gomes Costa - RA 260613 </td>
  </tr>
+</table>
  
 Nome do Jogo: Quatro
 
