@@ -12,6 +12,6 @@ Integrantes:
  </tr>
 </table>
  
-Nome do Jogo: Quatro
+Nome do Jogo: Quarto.
 
 <a href = "https://colab.research.google.com/drive/1J5hD9w-Y7OHrbeUwnBR6RxF0zXSnfDUG?usp=sharing"> <button> Link para o Collab </button> </a>
