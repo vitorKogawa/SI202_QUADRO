@@ -15,3 +15,5 @@ Integrantes:
 Nome do Jogo: Quatro
 
 <a href = "https://colab.research.google.com/drive/1J5hD9w-Y7OHrbeUwnBR6RxF0zXSnfDUG?usp=sharing">Botão Collab </a>
+
+<button class="GFG" onclick="window.location.href = 'https://colab.research.google.com/drive/1J5hD9w-Y7OHrbeUwnBR6RxF0zXSnfDUG?usp=sharing';"> Click Here </button>
