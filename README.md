@@ -14,6 +14,8 @@ Integrantes:
  
 Nome do Jogo: Quarto.
 
+<iframe src = "https://colab.research.google.com/drive/1J5hD9w-Y7OHrbeUwnBR6RxF0zXSnfDUG?usp=sharing">
+
 <a href = "https://colab.research.google.com/drive/1J5hD9w-Y7OHrbeUwnBR6RxF0zXSnfDUG?usp=sharing">
  
 Link para o Collab
